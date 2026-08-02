@@ -1,128 +1,82 @@
-# Fresher's Contest - FOSS@Amrita
+---
+description: How to Join amFOSS
+---
 
-This test is meant for the people who are interested in joining the [FOSS@Amrita](https://github.com/amfoss) club.
-Follow the below tasks and submit an ISSUE in this repository so that we can check your progress among all the people.
+# Praveshan - Join amFOSS
 
-## Base Rules
+## Introduction
 
-**You are not allowed to use GUI-based navigation/operations like Editing, Unzipping, etc., but are excepted to find out a solution with your coding and commanding skills** - you are accountable to show us ```proof of work```, by creating your own repository named `tasks-amfoss` which will contain whatever work you do for the test. Push all your codes and screenshots to the repository. For avoiding malpractice, make your repository as  _private_  so that no one can take your code. Make it _public_ before you submit.
+Greetings, fellow tech enthusiasts. Praveshan is the first step that you need to take to become a member at amFOSS. To get accepted, you will be required to complete a set of tasks that will test your problem-solving skills, determination, and most importantly - The ability to learn how to learn.
 
-**Plagiarism will not be entertained** - You are allowed to refer to any online portal, tutorials, forum-answers etc. but copying your code from your friends (or as such from any online source) is strictly forbidden. 
+The goal of these tasks is not to alienate those without a background in computer science but to get yourself acquainted with the process of acquiring skills on your own, all tasks are designed in a way so as to promote active learning. You could take a look at the previous-year’s challenges to get a rough idea of the process, but of course, do not expect the same questions.
 
-**Note that Individuals can be disqualified from the test at the organizers' discretion.** Reasons might include but are not limited to breaking the competition rules, or other unsporting behaviors.
+## Pipelines
 
-## The Tasks
+There are 2 main pipelines to enter amFOSS, specifically:
 
-### 0. Star all the [amFOSS](https://github.com/amfoss) repositories. :smile:
+* [S1](./#i.-for-freshers-s1) (for freshers)
+* [S2+](./#ii.-for-others-s2-and-above)
 
-Since you have made it here, we thought you would be interested in them.
+Detailed below are a few of the guidelines and eligibility criteria that you should go through before applying to a certain pipeline.
 
-> You should probably try this - https://github.com/amfoss/star-me
+## Eligibility
 
-> *PAUSE*: I know you have already starred this repository, but why don't you fork it too. I think you know about the fork. If not, please see the top right side and click on the fork button and select the user. That's it! You are awesome. You just forked a repository. Keep on going. :+1:
+### Requirements
 
----------------------------
+* You must be a student at Amrita Vishwa Vidyapeetham, Amritapuri Campus.
+* You must be ready to devote your time and effort to the club, such as staying back after classes every day and even working on holidays and vacations.
+* You must be willing to mentor your juniors and perform the responsibilities/tasks that are assigned to you.
+* You must strictly adhere to the Code of Conduct of the club.
 
-### 1.  We Want YOU to Introduce :grinning:
+### Not required
 
-Vipin Pavithran, the founder and chief mentor of the club, as well as others in the club,  are excited to welcome you onboard! Why don't you write us an email addressing them all? Check out your email, you must have received a mail under the thread name, `FOSS@Amrita - Freshers Introduction Mail`.  Send in a mail replying the thread, which answers the following -
+* You Need Not be in a CS-related branch.
+* You Need Not have any prior experience in computer science.
 
-   - About You
-   - What according to you is FOSS@Amrita?
-   - Why do you want to join FOSS@Amrita?
+## Guidelines
 
-> Make sure you follow mailing etiquettes. You can learn about them here - https://www.dailywritingtips.com/email-etiquette/
+**Google is your best friend**
 
----------------------------
+Students are encouraged to learn how to use Google efficiently and try their best to be self-sufficient in solving the problems they face while doing the tasks. While mentors will be assigned to you during Praveshan to clear your doubts, self-reliance is an important skill that we look for in members.
 
-### 2. Oswald and his Foolish Photographer
+**Plagiarism and copy-pasting from AI are strictly prohibited**
 
-Oswald and Weenie want their picture to be hanged on the wall, but their foolish photographer he gave them a manipulated image. Can you help them to fix it? Btw, they also wanted it to be a Grayscale image. So, get started and earn some *Good Karma*. :)
+While referring to online sources like websites, and blogs and even taking help from AI like chatGPT are allowed, directly copying code from them is prohibited. Plagiarism checkers will be employed to make sure that all work done is genuine. In addition to this, sharing code between participants is strictly forbidden; if this is discovered, both parties will immediately be disqualified.
 
-You will get the picture by running this below command.
+**Avoid using Windows/GUI tools**
 
-```bash
-$ curl -o oswald.png https://github.com/amfoss/amfoss-freshers-test/blob/master/assets/oswald.png
-```
+Considering that amFOSS is at its heart an open-source club, you must use a Linux/macOS system to complete the tasks. You should also try to minimize the use of the mouse, and try to use the terminal to do whatever work that you need to do.
 
-> **Hint**: You can refer to https://automatetheboringstuff.com/chapter17/
+**Communicate effectively**
 
----------------------------
+Clearly communicate your thought process, challenges faced and progress to the mentors assigned to you during Praveshan. The ability to communicate effectively is essential for fostering collaboration and understanding.
 
-### 3.  Correct your Emails
+_**FAQs**_
 
-Last night, someone from DPRK had sneaked into our system and manipulated all of your emails in our records. We are unsure of the mistakes that might have crept in and we want you guys to fix them for us.  We host our records right here in this repository, in a markdown file in this repository. Go ahead and correct *your* email. Create a branch named `#2-<email>-fix` and send a PR. Remember to have a meaningful commit message, ofc. :grin:
+**Q: How are participants evaluated during Praveshan?**
 
-See ISSUE [#2](https://github.com/amfoss/amfoss-freshers-test/issues/2)
+A: Evaluation is based on a variety of factors including but not limited to: No of tasks completed, frequency of updates, code quality, interview performance, etc.
 
-> **Help**: [Git Branch](https://www.git-scm.com/docs/git-branch/1.7.10), [Pull Requests](https://help.github.com/en/articles/about-pull-requests)
+**Q: What kind of tasks can we expect during Praveshan?**
 
----------------------------
+A: The tasks are designed to promote active learning and problem-solving. We have taken care to make sure that all of them can be completed with proper research, various domains will be touched upon like web dev, mobile dev, scraping, git, etc.
 
-### 4.  Here is an exciting Contest!
+**Q: Is there a specific timeline for completing Praveshan tasks?**
 
-We know that you all love Problem Solving, and we have planned a special contest for you! Are you ready?  
-Oops, we have a slight problem! We have lost the link generated in the morning and we have contacted the Police to find it. Maybe you should try too (You guys are problem-solvers after all). Until then, you can proceed to solve the below challenges. :point_down:
+A: The timelines are specific to each pipeline and hence will be updated on their respective pages.
 
-> BTW, remember that the Hackerrank challenge link always starts with the URL, https://www.hackerrank.com/
+## I. For Freshers (S1):
 
----------------------------
+This is the first pipeline to join amFOSS, which will commence after the start of the college term. Interested students are expected to undertake a series of designated tasks (that consist of both technical and non-technical tasks). Evaluation will be conducted based on the completion of these tasks, followed by an interview.
 
-### 5.  Kim's Gift 
+Fill out the following form to register: [https://forms.gle/TmpJuERyUyEgnSQYA](https://forms.gle/TmpJuERyUyEgnSQYA)​
 
-Did you try to open the `hahahaha` file yet? It was left by the DPRK attacker last night, maybe it contains Kim's nuke or some chocolates for you. Who doesn't like chocolates?
+Status: **Open**
 
-Write a bash script which does the whole thing, in the end.
+## II. For Others (S2 and above):
 
-> **Help** </br>
-`file a` gives you the details about the file *a* </br>
-`touch a` will create new file *a* </br>
-`rmdir a` deletes directory *a* </br>
-`mv a b` transfers the contents of file *a* to *b* </br>
-`chgrp` changes the group ownership of files </br>
-For more, you can refer at [CLI Commands](https://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_System_Utilities)
+This is the second pipeline for joining amFOSS. Interested students will have to complete all designated tasks. Evaluation will be conducted based on the completion of these tasks, followed by an interview.
 
----------------------------
+Fill out the following form to register: [https://forms.gle/TmpJuERyUyEgnSQYA](https://forms.gle/TmpJuERyUyEgnSQYA)​
 
-### 6. Doval's Secret Agents  
-
-Now comes the most interesting task of all. Wait, before starting I want to ask if you got the SECRET_MESSAGE.
-
-```python
-if(SECRET_MESSAGE):
-  task.proceed()
-else:
-  SECRET_MESSAGE.search()
-```
-
-The task is simple, host a small website on GitHub pages saying that **SECRET_MESSAGE is "###"** in a Level 3 Header. You can use README or HTML. We don't bother about design but who doesn't like good websites. :blush:
-
-> **Help**: [GitHub Pages](https://pages.github.com/)
-
----------------------------
-
-### 7.  Post it!
-
-We hope you all have a blog. You can write a blog post on your overall experience and how did you solve the tasks. Remember this is also a task but will be evaluated later. You can share the links in the Telegram group along with your status updates at the end of the day.
-
-You can update it later in the ISSUE submission.
-
-> **Reference**: You can have a look at some of the previous blog posts of the club members like https://kalidindiamitraja.wordpress.com/2018/10/25/sending-email-with-python/
-
----------------------------
-
-### 8. Race it, Raise it!  
-
-Once you are done with the 7 tasks above, you are **required** to submit **all your work** which includes your code (or maybe even screenshots) so that we can verify that you completed the tasks.
-To do that, you must raise an issue in the repository and fill the template.
-
-Here are some more rules (we know you are pro's, just be sure of these) -
-1.  Every individual should submit an **ISSUE** and fill that template so that we can evaluate the test. 
-2.  The **ISSUE TEMPLATE** must be strictly followed. A submission without following the template will be considered as  **INVALID** and hence will not be evaluated.
-3.  Only a single issue has to be made for each individual, multiple submissions will not be considered.
-
-> **Sample**: https://github.com/vchrombie/amfoss-freshers-test/issues/1
----------------------------
-
-Thank You for participating in the contest!
-We would be happy if you could kindly also fill the [feedback form](https://goo.gl/forms/QeU76AlyOTODS0vt1) too. :smiley:
+Status: **Open**
